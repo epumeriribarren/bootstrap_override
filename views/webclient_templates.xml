@@ -1,0 +1,5 @@
+<template id="_assets_backend_helpers" inherit_id="web._assets_backend_helpers" priority="14">
+    <xpath expr="//link[@href='/web/static/src/scss/bootstrap_overridden.scss']" position="replace">
+        <link rel="stylesheet" type="text/scss" href="/bootstrap_override/static/src/scss/bootstrap_overridden.scss"/>
+    </xpath>
+</template>
